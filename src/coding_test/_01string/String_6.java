@@ -1,4 +1,4 @@
-package coding_test.string;
+package coding_test._01string;
 
 import java.util.ArrayList;
 import java.util.Scanner;
